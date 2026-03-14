@@ -1,0 +1,7 @@
+WAKE_WORD = "jarvis"
+
+USER_NAME = "KDS"
+
+VOICE_RATE = 170
+
+JARVIS_NAME = "Jarvis"
